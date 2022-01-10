@@ -8,6 +8,16 @@ h1 {
 }
 
 
+.laura {
+    border: 10px solid seagreen;
+    width: fit-content;
+    background-color: seagreen;
+    padding: 5%;
+}
+.kristen {
+    border: solid;
+    border-color:blue
+}
 .riley {
     display: flex;
     flex-direction: column;
