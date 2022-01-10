@@ -5,6 +5,8 @@ h1 {
  width: 200px;
  length: 200px;
  display: flex;
+ border: dotted green;
+ 
 }
 
 
@@ -22,4 +24,7 @@ h1 {
     display: flex;
     flex-direction: column;
     text-align: center;
+}
+.backGround {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEWJz/C4QSRIAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=);
 }
