@@ -7,5 +7,13 @@ h1 {
     width: fit-content;
     background-color: seagreen;
     padding: 5%;
+}
+.kristen {
+    border: solid;
+    border-color:blue
+}
+.riley {
+    display: flex;
+    flex-direction: column;
     text-align: center;
 }
