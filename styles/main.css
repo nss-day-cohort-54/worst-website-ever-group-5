@@ -22,4 +22,7 @@ h1 {
     display: flex;
     flex-direction: column;
     text-align: center;
+    border: 50px groove rgb(173, 0, 253);
+    background-color: darksalmon;
+    margin: 5em;
 }
