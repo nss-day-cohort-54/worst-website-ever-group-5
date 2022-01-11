@@ -27,6 +27,7 @@ h1 {
     border: 50px groove rgb(173, 0, 253);
     background-color: darksalmon;
     margin: 5em;
+<<<<<<< HEAD
 }
 .lanceAll {
     border: solid 3px rgb(4, 216, 4);
@@ -45,4 +46,6 @@ h1 {
     font-style: oblique;
     background-image: url(https://i.pinimg.com/originals/f7/f5/fa/f7f5fa84657095f99d257749b968782a.gif);
     color: beige;
+=======
+>>>>>>> main
 }
