@@ -5,6 +5,8 @@ h1 {
  width: 200px;
  length: 200px;
  display: flex;
+ border: dotted green;
+ 
 }
 
 
@@ -22,4 +24,25 @@ h1 {
     display: flex;
     flex-direction: column;
     text-align: center;
+    border: 50px groove rgb(173, 0, 253);
+    background-color: darksalmon;
+    margin: 5em;
+}
+.lanceAll {
+    border: solid 3px rgb(4, 216, 4);
+    background-image: url();
+}
+.grant {
+    font-size: 300%;
+    color: aqua;
+    font-style: oblique;
+}
+.lances-pic {
+    border: solid rgb(251, 255, 0) 8px;
+}
+.lances-profile-box {
+    border: 5px solid black;
+    font-style: oblique;
+    background-image: url(https://i.pinimg.com/originals/f7/f5/fa/f7f5fa84657095f99d257749b968782a.gif);
+    color: beige;
 }
